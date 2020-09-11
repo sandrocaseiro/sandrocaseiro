@@ -9,5 +9,5 @@ I'm a architect and developer, passionate about tecnologies and to learn new stu
 
 <div><p>My profile overview: </p></div>
 
-![Sandros's github stats](https://github-readme-stats.vercel.app/api?username=sandrocaseiro&show_icons=true)
+![Sandros's github stats](https://github-readme-stats.vercel.app/api?username=sandrocaseiro&show_icons=true) 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sandrocaseiro">
